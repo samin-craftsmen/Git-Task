@@ -18,3 +18,10 @@ func reset() {
 	counter = 0
 	fmt.Println("Counter reset to 0")
 }
+
+func showMenu() {
+	fmt.Println("\n1. Increment")
+	fmt.Println("2. Decrement")
+	fmt.Println("3. Reset")
+	fmt.Println("4. Exit")
+}
