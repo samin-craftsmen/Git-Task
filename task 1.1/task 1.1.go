@@ -23,3 +23,17 @@ func viewTasks() {
 		fmt.Println(i+1, "-", t)
 	}
 }
+
+func deleteTask() {
+	var index int
+	fmt.Print("Enter task number to delete: ")
+	fmt.Scan(&index)
+
+	if index < 1 || index > len(tasks) {
+		fmt.Println("Invalid number")
+		return
+	}
+
+	tasks = append(tasks[:index-1], tasks[index:]...)
+	fmt.Println("Task deleted!")
+}
