@@ -12,3 +12,14 @@ func addTask() {
 	tasks = append(tasks, task)
 	fmt.Println("Task added!")
 }
+
+func viewTasks() {
+	if len(tasks) == 0 {
+		fmt.Println("No tasks available")
+		return
+	}
+
+	for i, t := range tasks {
+		fmt.Println(i+1, "-", t)
+	}
+}
