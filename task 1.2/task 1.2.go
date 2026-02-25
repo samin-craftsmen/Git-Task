@@ -6,12 +6,12 @@ var counter int
 
 func increment() {
 	counter++
-	fmt.Println("Counter:", counter)
+	fmt.Println("Counter :", counter)
 }
 
 func decrement() {
 	counter--
-	fmt.Println("Counter:", counter)
+	fmt.Println("Counter :", counter)
 }
 
 func reset() {
