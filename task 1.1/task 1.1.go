@@ -37,3 +37,10 @@ func deleteTask() {
 	tasks = append(tasks[:index-1], tasks[index:]...)
 	fmt.Println("Task deleted!")
 }
+
+func showMenu() {
+	fmt.Println("\n1. Add Task")
+	fmt.Println("2. View Tasks")
+	fmt.Println("3. Delete Task")
+	fmt.Println("4. Exit")
+}
