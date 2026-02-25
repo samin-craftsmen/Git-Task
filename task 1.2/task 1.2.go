@@ -19,6 +19,8 @@ func reset() {
 	fmt.Println("Counter reset to 0")
 }
 
+/* Add this to the menu loop in task 1.1 */
+
 func showMenu() {
 	fmt.Println("\n1. Increment")
 	fmt.Println("2. Decrement")
