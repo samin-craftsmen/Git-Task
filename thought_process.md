@@ -1,0 +1,32 @@
+# Git Learning Notes
+
+## 1. What is git rebase?
+- Ask ChatGPT
+
+## 2. Should I go through all of these first - rebase, reset, revert, cherry-pick?
+- I’ll just get basic knowledge first.
+- Go deeper when I actually need them.
+
+## 3. How should I do Task 1?
+- Ask ChatGPT to:
+  - Create a small single-page function.
+  - Break it into 6 small steps.
+  - Use separate git commits.
+  - Repeat this for 3 different branches.
+
+## 4. Do I need to create Ticket/PR template for this?
+- Leave it for now.
+- Ask later if needed.
+
+## 5. Where should I store this?
+- Create a new repository for this task.
+
+## 6. If I commit multiple times without pushing, do they all count?
+- Ask ChatGPT.
+
+## 7. I messed up the commits. What should I do?
+- Use hard reset.
+
+## 8. How to complete Task 2?
+- Ask ChatGPT.
+- Get step-by-step instructions.
