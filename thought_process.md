@@ -48,3 +48,5 @@ ECHO is on.
 
 ## 13. My commits from Banch-1 Are gone/missing.
 - Not sure. Have to look into it.
+- I see I deleted them 
+- I will merge them I guess?
