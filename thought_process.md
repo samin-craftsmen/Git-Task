@@ -34,3 +34,7 @@
 ## 9. I messed up by not uploading the thought process file at start. What should I do now?
 - Create one now and push to all branches.
 - Squash it.
+
+## How to do Task 3?
+- Ask ChatGPT
+- Get the steps and follow along.
