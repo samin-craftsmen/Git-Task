@@ -1,6 +1,3 @@
-ECHO is on.
-# Git Learning Notes
-
 ## 1. What is git rebase?
 - Ask ChatGPT
 
