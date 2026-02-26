@@ -35,6 +35,9 @@
 - Create one now and push to all branches.
 - Squash it.
 
-## How to do Task 3?
+## 10. How to do Task 3?
 - Ask ChatGPT
 - Get the steps and follow along.
+
+## 11. I forgot to add thought process to branch-1.
+- Doing it now.
