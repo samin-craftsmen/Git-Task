@@ -42,3 +42,9 @@ ECHO is on.
 
 ## 11. I forgot to add thought process to branch-1.
 - Doing it now.
+
+## 12. Need to create PR Template. Did not add before.
+- add it 
+
+## 13. My commits from Banch-1 Are gone/missing.
+- Not sure. Have to look into it.
